@@ -1,6 +1,3 @@
-[README.html.html](https://github.com/user-attachments/files/35071509/README.html.html)
-# memo
-memo
 <!DOCTYPE html>
 <html lang="ko">
 <head>
